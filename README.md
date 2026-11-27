@@ -2,6 +2,8 @@
 
 This project looks at a dataset of second-hand item listings collected by students in the ENCS5341 Machine Learning course at Birzeit University. Each of the 120 students listed about 15 used items with a title, description, category, age, condition and price. We merged all the submissions into one dataset, cleaned it, and then explored how category, age and condition are linked to price.
 
+You can view the full notebook with all the outputs here: [View on nbviewer](https://nbviewer.org/github/omarshobaki-png/Used-Items-Price-EDA/blob/main/assignment2_analysis.ipynb)
+
 ## What's in the repo
 
 - `assignment2_analysis.ipynb`: the main notebook with all the steps (merging, cleaning, EDA, insights and limitations)
