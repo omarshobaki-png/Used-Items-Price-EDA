@@ -1,0 +1,30 @@
+# classmates' raw submissions (student ids, names, photos)
+data/submissions/
+
+# csvs with real student ids (the no-id versions are in data/)
+/marketplace_raw.csv
+/marketplace_cleaned.csv
+reports/duplicates.csv
+reports/outliers.csv
+
+# course briefs
+assignment_1.pdf
+assignment_2.pdf
+
+# claude stuff
+CLAUDE.md
+.claude/
+
+# word temp files
+~$*
+
+# python / jupyter junk
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# os junk
+Thumbs.db
+desktop.ini
